@@ -13,7 +13,15 @@ plan:
         statement: viewers/viewer1.md
   - title: Craição de apontador para ficheiro
     plan:
-      - title: Ficheiros em linguagem C
+      - title: Ficheiros em linguagem C 2
         statement: lessons/lesson2.md
+  - title: Craição de apontador para ficheiro
+    plan:
+      - title: Ficheiros em linguagem C 3
+        statement: lessons/lesson3.md
+  - title: Craição de apontador para ficheiro
+    plan:
+      - title: Ficheiros em linguagem C 4
+        statement: lessons/lesson4.md
 
   
