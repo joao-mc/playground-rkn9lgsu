@@ -8,9 +8,10 @@ This C template lets you get started quickly with a simple one-page playground.
 int main() {
     FILE *fp;
     fp= fopen("file1.txt", "w");
+    if(fp==NULL)
+        printf("Erro na escrita do ficheiro\n");
 	printf("Hello World!");
 }
-
 ```
 
 # Advanced usage
