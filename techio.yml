@@ -11,4 +11,14 @@ plan:
         statement: exercises/exercise1.md
       - title: Add a viewer
         statement: viewers/viewer1.md
+- title: Craição de apontador para ficheiro
+    plan:
+      - title: Ficheiros em linguagem C
+        statement: lessons/lesson2.md
+      - title: Add a quiz
+        statement: quizzes/quizz1.md
+      - title: Add a coding exercise
+        statement: exercises/exercise1.md
+      - title: Add a viewer
+        statement: viewers/viewer1.md
   
