@@ -6,9 +6,10 @@ O protótipo da função é FILE *fopen(const char *filename, const char *mode)
 
 Para criar um ficheiro num programa 'C', devemos assim usar a seguinte sintaxe:
 
+```C
 FILE *fp;
 fp = fopen ("file_name", "mode");
-
+```
 
 Na sintaxe acima, é criado um apontador para ficheiro (uma espécie de variável) definida na biblioteca padrão (no cabeçalho <stdio.h>), que tem que ficar com um nome associado (para futura referência no código, como outro tipo qualquer de variável)
 
@@ -38,37 +39,22 @@ O nome do ficheiro e o modo são especificados como cadeias de caracteres, porta
 
 Exemplo:
 
+```C
 #include <stdio.h>
 int main() {
 FILE *fp;
 fp  = fopen ("data.txt", "w");
 }
-
+```
 Output:
 
 O ficheiro é criado na mesma pasta em que se encontre o ficheiro de código.
 No entanto, se assim entendermos, podemos especificar o caminho em que desejamos criar ou abrir o ficheiro:
 
+```C
 #include <stdio.h>
 int main() {
 FILE *fp;
 fp  = fopen ("D://data.txt", "w");
 }
-
-
-9.1.2 Abertura de ficheiro
-
-
-
- 
-
-
-
- 
-
-
-
-
- 
-
-
+```
