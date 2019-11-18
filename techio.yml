@@ -4,7 +4,7 @@ plan:
   - title: Introdução
     plan:
       - title: Ficheiros em linguagem C
-        statement: getting started/tutorial-1-create.md
+        statement: lessons/lesson1.md
       - title: Add a quiz
         statement: getting started/tutorial-2-quiz.md
       - title: Add a coding exercise
