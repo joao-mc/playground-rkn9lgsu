@@ -26,7 +26,7 @@ plan:
   - title: Craição de apontador para ficheiro
     plan:
       - title: Ficheiros em linguagem C 4
-        statement: lessons/lesson5md
+        statement: lessons/lesson5.md
 
 
   
