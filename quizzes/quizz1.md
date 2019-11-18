@@ -2,6 +2,26 @@
 A quiz is described using the following syntax in your markdown:
 
 ```markdown
+?[Na manipulação de arquivos em linguagem C, a função fopen () abre um arquivo, retornando o ponteiro associado ao arquivo, fazendo uso da seguinte sintaxe:
+
+FILE *p; p = fopen (nome_do_arquivo, modo_de_abertura);
+
+Observe a instrução:
+
+FILE *prova; prova = fopen (“arquivo.dat", “wb+");
+
+Pode-se afirmar que se realizou:]
+-[ ] A
+a criação de um arquivo binário chamado arquivo.dat, em que poderão ser realizadas operações de leitura e de escrita.
+-[ ] B
+a criação de um arquivo chamado prova, em que poderão ser realizadas somente as operações de leitura.
+-[X] C
+a criação de um arquivo binário chamado prova, em que poderão ser realizadas somente as operações de escrita.
+-[ ] D
+a criação de um arquivo chamado arquivo.dat, em que poderão ser realizadas operações de leitura.
+```
+
+```markdown
 ?[What is the answer to Life, the Universe and Everything?]
 -[ ] There is no answer to that!
 -[ ] Sleep and eat
