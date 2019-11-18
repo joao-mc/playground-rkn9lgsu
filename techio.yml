@@ -1,9 +1,9 @@
 title : Módulo 8 - Manipulação de ficheiros em C
 cover: cover.png
 plan:
-  - title: Introdução
+  - title: Conceitos básicos
     plan:
-      - title: Ficheiros em linguagem C
+      - title: FILE
         statement: lessons/lesson1.md
       - title: Add a quiz
         statement: quizzes/quizz1.md
