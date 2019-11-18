@@ -2,7 +2,7 @@ Exemplo 1:
 
 Apresentar o conteúdo de um ficheiro de texto assinalando as linhas que contenham o texto "printf". Indicar também o número total de linhas e o número de linhas com "printf".
 
-'''C runnable
+```C runnable
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -41,4 +41,4 @@ int main(int argc, char* argv[])
 	return 0;
 }
 
-'''
+```
