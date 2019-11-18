@@ -15,7 +15,7 @@ Pode-se afirmar que se realizou:]
 a criação de um arquivo binário chamado arquivo.dat, em que poderão ser realizadas operações de leitura e de escrita.
 -[ ] B
 a criação de um arquivo chamado prova, em que poderão ser realizadas somente as operações de leitura.
--[X] C
+-[x] C
 a criação de um arquivo binário chamado prova, em que poderão ser realizadas somente as operações de escrita.
 -[ ] D
 a criação de um arquivo chamado arquivo.dat, em que poderão ser realizadas operações de leitura.
