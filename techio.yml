@@ -3,7 +3,7 @@ cover: cover.png
 plan:
   - title: Conceitos básicos
     plan:
-      - title: FILE
+      - title: Abrir ou criar um ficheiro
         statement: lessons/lesson2.md
       - title: Add a quiz
         statement: quizzes/quizz1.md
