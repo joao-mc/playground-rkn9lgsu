@@ -6,9 +6,9 @@ plan:
       - title: Ficheiros em linguagem C
         statement: lessons/lesson1.md
       - title: Add a quiz
-        statement: getting started/tutorial-2-quiz.md
+        statement: quizzes/quizz1.md
       - title: Add a coding exercise
-        statement: getting started/tutorial-3-coding-exercise.md
+        statement: exercises/exercise1.md
       - title: Add a viewer
-        statement: getting started/tutorial-4-viewer.md
+        statement: viewers/viewer1.md
   
