@@ -1,4 +1,4 @@
-# Abertura ou criação de um ficheiro
+# Função fopen
 
 Sempre que quisermos trabalhar com um ficheiro, o primeiro passo é abrir ou criar um ficheiro. Um ficheiro não passa de espaço na memória em que os dados são armazenados. Por forma a ganhar acesso aos elementos de um ficheiro, designado por um dado nome, é necessário "abri-lo", usando a função fopen, cujo protótipo está em stdio.h.
 
