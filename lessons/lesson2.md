@@ -2,7 +2,11 @@
 
 Sempre que quisermos trabalhar com um ficheiro, o primeiro passo é abrir ou criar um ficheiro. Um ficheiro não passa de espaço na memória em que os dados são armazenados. Por forma a ganhar acesso aos elementos de um ficheiro, designado por um dado nome, é necessário "abri-lo", usando a função fopen, cujo protótipo está em stdio.h.
 
-O protótipo da função é FILE *fopen(const char *filename, const char *mode)
+O protótipo da função é 
+
+```C
+FILE *fopen(const char *filename, const char *mode)
+```
 
 Para criar um ficheiro num programa 'C', devemos assim usar a seguinte sintaxe:
 
@@ -46,8 +50,6 @@ FILE *fp;
 fp  = fopen ("data.txt", "w");
 }
 ```
-Output:
-
 O ficheiro é criado na mesma pasta em que se encontre o ficheiro de código.
 No entanto, se assim entendermos, podemos especificar o caminho em que desejamos criar ou abrir o ficheiro:
 
