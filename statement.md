@@ -29,7 +29,6 @@ int main(void)
 	//mensagem para o utilizador
 	printf("O ficheiro foi criado com sucesso!");
 	
-	system("pause");
 	return(0);
 }
 ```
