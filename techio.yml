@@ -4,7 +4,7 @@ plan:
   - title: Conceitos básicos
     plan:
       - title: FILE
-        statement: lessons/lesson1.md
+        statement: lessons/lesson2.md
       - title: Add a quiz
         statement: quizzes/quizz1.md
       - title: Add a coding exercise
