@@ -1,32 +1,29 @@
-title : Módulo 8 - Manipulação de ficheiros em C
+title: Linguagem C (manipulação de ficheiros)
 cover: cover.png
 plan:
-  - title: Conceitos básicos
-    plan:
-      - title: Abrir ou criar um ficheiro
-        statement: lessons/lesson2.md
-      - title: Add a quiz
-        statement: quizzes/quizz1.md
-      - title: Add a coding exercise
-        statement: exercises/exercise1.md
-      - title: Add a viewer
-        statement: viewers/viewer1.md
-  - title: Craição de apontador para ficheiro
-    plan:
-      - title: Ficheiros em linguagem C 2
-        statement: lessons/lesson2.md
-  - title: Craição de apontador para ficheiro2
-    plan:
-      - title: Ficheiros em linguagem C 3
-        statement: lessons/lesson3.md
-  - title: Craição de apontador para ficheiro3
-    plan:
-      - title: Ficheiros em linguagem C 4
-        statement: lessons/lesson4.md
-  - title: Craição de apontador para ficheiro4
-    plan:
-      - title: Ficheiros em linguagem C 42412412
-        statement: lessons/lesson5.md
-
-
-  
+- title: Conceitos básicos
+  plan:
+  - title: Abrir ou criar um ficheiro
+    statement: lessons/lesson2.md
+  - title: Add a quiz
+    statement: quizzes/quizz1.md
+  - title: Add a coding exercise
+    statement: exercises/exercise1.md
+  - title: Add a viewer
+    statement: viewers/viewer1.md
+- title: Craição de apontador para ficheiro
+  plan:
+  - title: Ficheiros em linguagem C 2
+    statement: lessons/lesson2.md
+- title: Craição de apontador para ficheiro2
+  plan:
+  - title: Ficheiros em linguagem C 3
+    statement: lessons/lesson3.md
+- title: Craição de apontador para ficheiro3
+  plan:
+  - title: Ficheiros em linguagem C 4
+    statement: lessons/lesson4.md
+- title: Craição de apontador para ficheiro4
+  plan:
+  - title: Ficheiros em linguagem C 42412412
+    statement: lessons/lesson5.md
